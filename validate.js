@@ -18,6 +18,6 @@ function validateform()
 
     if(skills.length < 3)
     {
-        alert("Enter valid skills");
+        alert("Need more skills");
         return false;
     }
